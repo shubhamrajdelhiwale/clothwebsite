@@ -360,7 +360,6 @@ li {
 .fox1 {
     height: 486px;
     width: 320px;
-    background-color: rgb(248, 245, 245);
 }
 
 .fox1 img {
@@ -369,7 +368,8 @@ li {
 }
 
 .fox1 input {
-    border: #837d7d font-size: 1.8rem;
+    border: #E6E6E6 solid; 
+    font-size: 1.8rem;
     padding: 6px;
     background-color: white;
 }
